@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuze-Liu)](https://github.com/Shuze-Liu/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Shuze-Liu/Shuze-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
