@@ -4,6 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 03 April 2025 - To: 10 April 2025
+
 Python           18 hrs 8 mins   ██████████████████████▓░░   90.61 %
 Markdown         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
 YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
