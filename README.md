@@ -3,7 +3,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuze-Liu)](https://github.com/Shuze-Liu/github-readme-stats)-->
 <!--START_SECTION:waka-->
 
-Coding this week
 ```txt
 Python       11 hrs 26 mins  █████████████████████▓░░░   86.06 %
 Markdown     1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
