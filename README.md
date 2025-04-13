@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Python           18 hrs 8 mins   ██████████████████████▓░░   90.61 %
-Markdown         1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Git Config       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python           20 hrs 14 mins  ██████████████████████▒░░   89.99 %
+Markdown         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
