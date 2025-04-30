@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Go           11 hrs 11 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-Cuda         8 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-C++          7 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Python       7 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Markdown     6 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Go           16 hrs 5 mins   ██████████░░░░░░░░░░░░░░░   39.41 %
+Cuda         7 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Python       6 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+Markdown     4 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Other        2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
